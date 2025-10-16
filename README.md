@@ -43,8 +43,17 @@ Differential amplifier
 
 ## TABULATION:
 
+![WhatsApp Image 2025-10-16 at 20 42 17_113346f2](https://github.com/user-attachments/assets/f75c7f71-1baa-481f-b5db-2cf570a45fa8)
+
+## CALCULATION:
+
+![WhatsApp Image 2025-10-16 at 20 41 34_2a8e8651](https://github.com/user-attachments/assets/c115423d-ba03-46e8-8177-771cfc19e359)
 
 ## GRAPH:
 
+![WhatsApp Image 2025-10-16 at 20 45 09_2c315a4c](https://github.com/user-attachments/assets/71e29ede-a3f0-4d68-a0b6-1fecf8e00f12)
 
-## RESULT:                   
+## RESULT:   
+Thus, the Differential Amplifier is designed and its performance was successfully tested using op-amp IC 741.
+
+
